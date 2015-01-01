@@ -1,0 +1,5 @@
+/Users/matthew/Projects/CodgenModelGenerator/CodgenModelGenerator/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/matthew/Projects/CodgenModelGenerator/CodgenModelGenerator/bin/Debug/CodgenModelGenerator.dll.mdb
+/Users/matthew/Projects/CodgenModelGenerator/CodgenModelGenerator/bin/Debug/CodgenModelGenerator.dll
+/Users/matthew/Projects/CodgenModelGenerator/CodgenModelGenerator/obj/Debug/CodgenModelGenerator.dll
+/Users/matthew/Projects/CodgenModelGenerator/CodgenModelGenerator/obj/Debug/CodgenModelGenerator.dll.mdb

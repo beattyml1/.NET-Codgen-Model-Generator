@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodgenModelGenerator", "CodgenModelGenerator\CodgenModelGenerator.csproj", "{2C3E2203-67FC-42D6-8C43-31EA2A82241E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodgenAnnotations", "CodgenAnnotations\CodgenAnnotations.csproj", "{DA260F67-D732-4D9D-8931-CDD61F1E3B47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCodgenModelGenerator", "TestCodgenModelGenerator\TestCodgenModelGenerator.csproj", "{BADA4296-5A69-45F5-BC0B-97D1A4CEA527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C3E2203-67FC-42D6-8C43-31EA2A82241E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3E2203-67FC-42D6-8C43-31EA2A82241E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3E2203-67FC-42D6-8C43-31EA2A82241E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3E2203-67FC-42D6-8C43-31EA2A82241E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADA4296-5A69-45F5-BC0B-97D1A4CEA527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADA4296-5A69-45F5-BC0B-97D1A4CEA527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADA4296-5A69-45F5-BC0B-97D1A4CEA527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADA4296-5A69-45F5-BC0B-97D1A4CEA527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA260F67-D732-4D9D-8931-CDD61F1E3B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA260F67-D732-4D9D-8931-CDD61F1E3B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA260F67-D732-4D9D-8931-CDD61F1E3B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA260F67-D732-4D9D-8931-CDD61F1E3B47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CodgenModelGenerator\CodgenModelGenerator.csproj
+	EndGlobalSection
+EndGlobal
